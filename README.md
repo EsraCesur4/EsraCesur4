@@ -1,4 +1,6 @@
-### 📫 Reach Me</h3>
+<div align="center">
+
+### 📫 Reach Me
 
 <p>
   <a href="https://www.linkedin.com/in/esracesur4/" target="_blank">
@@ -8,12 +10,22 @@
   <a href="https://medium.com/@esracesur20" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-
-  <a href="esracesur20@gmail.com">
+  
+  <a href="https://www.kaggle.com/esracesur0" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:esracesur20@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+  
 </p>
 
+</div>
+
+
+<div align="center">
 
 ### 🛠️ Languages and Tools
 
@@ -66,4 +78,4 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn" />
 </p>
 
-
+</div>
