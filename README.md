@@ -29,7 +29,7 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
+
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   
@@ -76,6 +76,6 @@
 
   <!-- Scikit-learn -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn" />
-</p>
+
 
 </div>
